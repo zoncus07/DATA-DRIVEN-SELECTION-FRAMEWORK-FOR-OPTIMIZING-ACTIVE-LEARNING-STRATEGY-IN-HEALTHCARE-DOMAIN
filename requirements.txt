@@ -1,0 +1,9 @@
+flask==3.0.3
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+scipy==1.13.1
+openpyxl==3.1.5
+pyarrow==16.1.0
+pywebview==5.2
+pyinstaller==6.10.0
